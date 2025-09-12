@@ -1,0 +1,6 @@
+python-dotenv>=1.0.0
+todoist-api-python>=3.1.0,<4
+notion-client>=2.0.0
+requests
+pandas
+dotenv
