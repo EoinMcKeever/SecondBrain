@@ -1,4 +1,4 @@
-from utils.todoist import start
+from utils.todoist_to_notion_workflow.todoist import start
 
 
 def main():

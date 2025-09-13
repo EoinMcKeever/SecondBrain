@@ -15,7 +15,7 @@ from typing import List, Optional, Dict, Tuple
 import os
 
 from .notion_client import NotionManager
-from .project_mappings import get_notion_database_id
+from ..mappings.project_mappings import get_notion_database_id
 
 
 @dataclass

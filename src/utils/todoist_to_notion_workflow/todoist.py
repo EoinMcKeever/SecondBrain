@@ -10,7 +10,7 @@ from typing import List, Dict, Optional
 from dotenv import load_dotenv
 import os
 from .create_task_notion import NotionTaskCreator
-from .project_mappings import get_notion_database_id, is_valid_project_mapping
+from ..mappings.project_mappings import get_notion_database_id, is_valid_project_mapping
 
 # Load environment variables
 load_dotenv()
